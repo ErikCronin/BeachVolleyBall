@@ -1,0 +1,23 @@
+/* CSS Document */
+
+.logo {
+	float:left	
+}
+
+.intensevball {
+	float:right;
+}
+
+.volleynet {
+	float:left;	
+	margin-right:15px;
+}
+
+.contact {
+	float:left;
+	margin-right: 5px;
+}
+
+.signuppic {
+	float:right;	
+}
